@@ -1,0 +1,10 @@
+
+SongConverterPlus/\.vs/SongConverterPlus/v16/
+
+SongConverterPlus/\.vs/SongConverterPlus/v15/
+
+*.config
+
+SongConverterPlus/SongConverterPlus/bin/Debug/
+
+SongConverterPlus/SongConverterPlus/obj/Debug/

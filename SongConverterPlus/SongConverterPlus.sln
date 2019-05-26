@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongConverterPlus", "SongConverterPlus\SongConverterPlus.csproj", "{70C8D178-C392-49AD-AFBC-C8C8B547CD31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C8D178-C392-49AD-AFBC-C8C8B547CD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C8D178-C392-49AD-AFBC-C8C8B547CD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C8D178-C392-49AD-AFBC-C8C8B547CD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C8D178-C392-49AD-AFBC-C8C8B547CD31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7E4EB5A-79D8-45E6-98C2-3A0F4751F1D2}
+	EndGlobalSection
+EndGlobal
